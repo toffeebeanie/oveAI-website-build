@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03779be6.css",
+    "main.js": "/static/js/main.56d99da7.js",
+    "static/media/OveAI.mp4": "/static/media/OveAI.6eeb6dfd512fd8e1b652.mp4",
+    "static/media/2-bg.gif": "/static/media/2-bg.28693564a1f4a44b8151.gif",
+    "static/media/opensea_32x32.png": "/static/media/opensea_32x32.6c717c0a9968d9f21066.png",
+    "static/media/twitter_32x32.png": "/static/media/twitter_32x32.032995fbaa1e662693e6.png",
+    "index.html": "/index.html",
+    "main.03779be6.css.map": "/static/css/main.03779be6.css.map",
+    "main.56d99da7.js.map": "/static/js/main.56d99da7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03779be6.css",
+    "static/js/main.56d99da7.js"
+  ]
+}
